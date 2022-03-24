@@ -1,0 +1,43 @@
+body{
+
+  background-color: #f2f2f2;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+
+}
+
+#container {
+  text-align: center;
+  padding: 20px;
+  background-color: aqua;
+  margin: 10px;
+}
+
+h1{
+    color: rgb(0, 17, 255);
+    text-align: center;
+}
+
+input{
+  text-align: center;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(0, 17, 255);
+  height: 30px;
+}
+
+.input-div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  padding: 10px;
+    
+
+
+
+
